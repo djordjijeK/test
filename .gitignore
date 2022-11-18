@@ -1,0 +1,7 @@
+# notebooks ignore
+.ipynb_checkpoints
+notebooks/.ipy*
+
+# data ignore
+data/rent-raw.json
+data/fastai-data/*
